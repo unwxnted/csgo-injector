@@ -22,3 +22,8 @@ Instructions:
 
 8- open the csgo and select the injection method and write the name of the dll.
 
+Credits:
+
+Me for the injector.
+
+https://github.com/danielkrupinski/VAC-Bypass-Loader for the bypass of vac.
