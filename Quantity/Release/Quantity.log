@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\bauti\Desktop\injector\Quantity\Quantity\Main.cpp(17,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\bauti\Desktop\injector\Quantity\Quantity\functions.h(70): warning C4715: 'Functions::GetModuleBaseAddress': no todas las rutas de acceso de control devuelven un valor
+  Quantity.vcxproj -> C:\Users\bauti\Desktop\injector\Quantity\Release\Quantity.exe
